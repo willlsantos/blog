@@ -4,8 +4,6 @@ date: 2022-06-20T10:22:00-03:00
 draft: false
 ---
 
-## DevOpsDays Vitória 2022
-
 Olá, 
 Se você chegou até aqui, provavelmente você assistiu minha palestra [VPC Para Leigos no DevOpsDays Vitória 2022](https://devopsdays.org/events/2022-vitoria/program/will-oliveira).
 
