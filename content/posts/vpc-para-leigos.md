@@ -1,3 +1,8 @@
+---
+title: "VPC Para Leigos - DevOpsDays Vitória 2022"
+date: 2022-06-20T10:22:00-03:00
+draft: false
+---
 
 ## DevOpsDays Vitória 2022
 
