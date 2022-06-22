@@ -19,11 +19,10 @@ Caso tenha dúvidas ou precise de ajuda, podemos bater um papo :wink:
 ### Apresentação
 [VPC Para Leigos de Will Santos](https://www.canva.com/design/DAFDyqlRuY4/view)
 
-### Referência
+### Meu material de estudos
 
 - [O que é VPC?](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html) - A Amazon Virtual Private Cloud (Amazon VPC) permite iniciar recursos da AWS em uma rede virtual definida por você.
 
 - [Como funciona a VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/how-it-works.html) - Uma _nuvem privada virtual_ (VPC) é uma rede virtual dedicada à sua conta da AWS
-  
--  [O que é VPC e como ela funciona](https://www.treinaweb.com.br/blog/o-que-e-vpc-e-como-ela-funciona) - A VPC é o principal serviço de rede privada na AWS
 
+-  [O que é VPC e como ela funciona](https://www.treinaweb.com.br/blog/o-que-e-vpc-e-como-ela-funciona) - A VPC é o principal serviço de rede privada na AWS
