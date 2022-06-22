@@ -1,4 +1,22 @@
 baseURL = 'http://willlsantos.github.io/blog/'
-languageCode = 'en-us'
-title = 'Blog'
+languageCode = 'pt-br'
+title = 'Will Santos'
 theme = "ananke"
+DefaultContentLanguage = "pt"
+
+[params]
+  commentoEnable = false
+  date_format = "2. January 2006"
+  description = "Preto, Paulistano, Cloud Specialist na AmbevTech."
+
+  [[params.ananke_socials]]
+  name = "twitter"
+  url = "https://twitter.com/willepronto"
+  
+  [[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/willian-dos-santos-oliveira/"
+  
+  [[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/willlsantos"
