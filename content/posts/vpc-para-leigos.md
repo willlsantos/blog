@@ -11,7 +11,9 @@ Fico muito feliz e espero que tenha gostado da apresentação.
 
 Vou deixar aqui o material de referência sobre VPC, é um conteúdo mais técnico comparada a apresentação.
 
-Caso tenha dúvidas ou precise de ajuda, podemos bater um papo :wink:
+Caso tenha dúvidas ou precise de ajuda, vamos bater um papo.
+
+Aceito sugestões de documentações também \o
 
 [Twitter](https://twitter.com/willepronto)
 [E-mail](mailto:will.santos92@gmail.com)
