@@ -7,7 +7,7 @@ DefaultContentLanguage = "pt"
 [params]
   commentoEnable = false
   date_format = "2. January 2006"
-  Subtitle = "Preto, Paulistano, Cloud Specialist na AmbevTech."
+  description = "The last theme you'll ever need. Maybe."
   background_color_class = "bg-black"
   [[params.ananke_socials]]
   name = "twitter"
