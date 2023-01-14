@@ -13,7 +13,7 @@ Vou deixar aqui o material de referência sobre VPC, é um conteúdo mais técni
 
 Caso tenha dúvidas ou precise de ajuda, vamos bater um papo.
 
-Aceito sugestões de documentações também \o
+Aceito sugestões de documentações também!
 
 [Twitter](https://twitter.com/willepronto)
 [E-mail](mailto:will.santos92@gmail.com)
