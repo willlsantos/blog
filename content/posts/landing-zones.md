@@ -28,7 +28,7 @@ Aceito sugestões de documentações também!
 
 - [Landing Zone](https://blog.tivit.com/landing-zone-tivit) 
 
--  [Topologia Hub-Spoke]([https://www.treinaweb.com.br/blog/o-que-e-vpc-e-como-ela-funciona](https://learn.microsoft.com/pt-br/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli)
+-  [Topologia Hub-Spoke](https://learn.microsoft.com/pt-br/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli)
 
 -  [Definir uma Topologia de Rede Azure](https://learn.microsoft.com/pt-br/azure/cloud-adoption-framework/ready/azure-best-practices/define-an-azure-network-topology)
 
