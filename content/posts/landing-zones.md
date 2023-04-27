@@ -20,7 +20,7 @@ Aceito sugestões de documentações também!
 [E-mail](mailto:will.santos92@gmail.com)
 
 ### Apresentação
-[Landing Zones]([https://www.canva.com/design/DAFDyqlRuY4/view](https://www.canva.com/design/DAFhMjOuhxs/VrzDg9Q4hbk0BknBiYLfsQ/edit?utm_content=DAFhMjOuhxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+[Landing Zones](https://www.canva.com/design/DAFhMjOuhxs/VrzDg9Q4hbk0BknBiYLfsQ/edit?utm_content=DAFhMjOuhxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Meu material de estudos
 
