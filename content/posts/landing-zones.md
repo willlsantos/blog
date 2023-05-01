@@ -6,7 +6,7 @@ draft: false
 ---
 
 Olá, 
-Se você chegou até aqui, provavelmente você assistiu minha palestra [Landing Zones no Platform Engineer Summit 2023]([https://devopsdays.org/events/2022-vitoria/program/will-oliveira](https://www.platformengineersummit.com/schedule)).
+Se você chegou até aqui, provavelmente você assistiu minha palestra [Landing Zones no Platform Engineer Summit 2023](https://www.youtube.com/live/7mEBkYaDyZA?feature=share&t=11109)).
 
 Fico muito feliz e espero que tenha gostado da apresentação.
 
